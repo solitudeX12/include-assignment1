@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+}
+body{
+    background-color: rgb(13, 25, 43);
+    padding: 2%;
+    color: white;
+    min-height: 100vh;
+}
+div.content{
+    margin: auto;
+    background-color:rgb(20, 37, 61);
+    border-style: hidden;
+    border-radius: 3%;
+    width: 290px;
+    height: 550px;
+    /* box-sizing: border-box; */
+    padding: 20px;
+}
+img{
+    border-style: hidden;
+    border-radius: 3%;
+    width: 290px
+}
+p{
+    color: rgba(255, 255, 255, 0.5);
+    text-align: left;
+}
+.second{
+    border-bottom: 1px solid rgb(255, 255, 255, 0.5);
+    padding-bottom: 15px;
+}
+.ethereum{
+    width: 10px;
+}
+span.eth{
+    color: rgb(0, 255, 248);
+}
+.clock{
+    width: 20px;
+}
+div.creator1{
+    font-size: large;
+    display: inline;
+}
+.avatar{
+    width: 30px;
+}
+span.creator2{
+    opacity: 0.5;
+}
+div.footer{
+    font-size: 15px;
+    text-align: center;
+    margin: auto;
+
+}
